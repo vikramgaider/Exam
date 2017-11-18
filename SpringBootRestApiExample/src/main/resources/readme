@@ -1,0 +1,14 @@
+localhost:9000//api/user/ -- Getting all the results
+
+localhost:9000//api/user/ -- create a user
+ {
+        "id": 1,
+        "fName": "vikram",
+        "lName": "verma",
+        "email": "vikramverma@gmail806.com",
+        "pincode": 411006,
+        "birthDate": "2020-05-01"
+ }
+ 
+ 
+ localhost:9000//api/user/3 -- delete a user
